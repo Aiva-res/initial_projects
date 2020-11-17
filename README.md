@@ -9,12 +9,18 @@
 | [Аналитика игр](#4Project_Games_Analytics) | Определение закономерностей успешности игр | *Matplotlib, NumPy, Pandas*| 
 | [Аналитика бизнес-показателей](#5Project_Business_Rates_Analysis) | Изучение основных бизнес-показателей для определения маркетинговых затрат | *Matplotlib, Pandas* |
 | [Аналитика в авиакомпании](#6Project_Air_Company_Analytics) | Проверка гипотезы о повышении спроса во время фестивалей | *Matplotlib, Pandas* |
-| [Исследование в e-commerce](#7Project_E-shop_Analytics) | Проверка гипотез для увеличения выручки крупного интернет-магазина | *Matplotlib, Pandas, Python, SciPy* |
-| [Исследование рынка общепита](#8Project_Food_Start-up) | Определение наилучших параметров для открытия заведения общепита в г.Москва | *Pandas, Plotly, Python, Seaborn*|
-| [Анализ пользовательского поведения](#9Project_Users_Interaction) |
+| [Исследование в e-commerce](#7Project_E-shop_Analytics) | Проверка гипотез для увеличения выручки крупного интернет-магазина | *Matplotlib, Pandas, SciPy* |
+| [Изучение воронки продаж](#8Project_Food_Start-up) | Изучение воронки продаж для мобильного приложения по реализации продуктов питания |  *Matplotlib, Pandas, Plotly, SciPy, Seaborn* |
+| [Анализ пользовательского поведения](#9Project_Users_Interaction) | Создание дашборда по пользовательским событиям для агрегатора
+новостей | *SQLAlchemy, PostgreSQL, dash, Tableau* |
+| [Прогноз оттока пользователей](#10Project_Churn_Analysis) | Прогнозирование вероятности оттока пользователей для фитнес-центра | *Pandas, Scikit-learn, Matplotlib, Seaborn*|
+| [Исследование рынка общепита](#11Project_Moscow_Catering_Market)| Определение наилучших параметров для открытия заведения общепита в г.Москва | *Pandas, Plotly, Seaborn*|
+| [Анализ товарного ассортимента](#12Project_Product_Range_Analysis) | Оптимизация ассортимента товаров для дома | *Matplotlib, Pandas, Plotly, SciPy, Seaborn* |
+| [Проверка результатов A/B теста](#13Project_New_Users_Funnel) |Оценка результатов A/B-тестирования поведения новых пользователей | *Matplotlib, Pandas, Plotly, SciPy, Seaborn* |
+| [Анализ базы данных](#14Project_Books_Reading_App) | Аналитика базы данных крупного сервиса для чтения книг | *Pandas, Sqlalchemy* |
 
 
 
 
-
+ 
 
